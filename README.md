@@ -6,18 +6,18 @@ This is my another mini project which is Railway reservation system.
 The functionalities of this project is:-
 <br>
 <br>
-1. Reserving Tickets
+<li>Reserving Tickets</li>
 <br>
-2. Cancelling Tickets
+<li>Cancelling Tickets</li>
 <br>
-3. Checking PNR staus
+<li>Checking PNR staus</li>
 <br>
-4. Checking the Train details
+<li>Checking the Train details</li>
 <br>
-5. Admin privilage to update the records 
+<li>Admin privilage to update the records</li> 
 <br>
 <br>
-<b>Password for accessing admin privilage is: "*****"</b>
+<h1><b>Password for accessing admin privilage is: "*****"</b></h1>
 <br><br>
   <hr>
   This project works purely on <b>Files concept</b> and SQL is not been used.
