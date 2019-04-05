@@ -21,4 +21,4 @@ The functionalities of this project is:-
 <br><br>
   This project works purely on <b>Files concept</b> and SQL is not been used.
   <br>
-  This project is made on version <b> Python 2.7</b> and may not work well with the latest versions and hence bit modifications might be required in order to run the project<hr><br>
+  This project is made on version <b> Python 2.7</b> and may not work well with the latest versions and hence bit modifications might be required in order to run the project<br>
